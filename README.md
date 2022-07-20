@@ -5,5 +5,5 @@
 Para rodar este projeto em sua maquina, por favor digita:
 
 ```
-Sudo apt install docker
+node app.js
 ```
